@@ -7,13 +7,13 @@ by **Jetro Wils** (2025)
 
 ---
 
-## 🧩 Overview
+## Overview
 
 The PET4AI Framework is a decision support prototype developed using the Design Science Research Methodology (DSRM). It helps (Chief) Information Security Officers ((C)ISOs) and Data Protection Officers (DPOs) evaluate the need for PETs, identify suitable PET combinations, and understand implementation trade-offs when adopting AI technologies.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 PET4AI-framework/
 ├── docs/ → Public version of the full thesis (PDF)
@@ -27,7 +27,7 @@ PET4AI-framework/
 
 ---
 
-## 🔬 Contents
+## Contents
 
 - 📄 **docs/PET4AI_Framework_Public.pdf**  
   A public version of the thesis explaining the problem context, framework design, expert validation, and conclusions.
@@ -43,7 +43,7 @@ PET4AI-framework/
 
 ---
 
-## 🔗 Citation
+## Citation
 
 If you use this work in your research, please cite as:
 
